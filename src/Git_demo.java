@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Git_demo {
 
@@ -13,6 +14,9 @@ public class Git_demo {
 		
 //		new branch created
 //		this code is for now pankaj branch		
+		Scanner sc = new Scanner (System.in);
+		System.out.println("entr your name");
+		String name = sc.nextLine();
 	}
 
 }
