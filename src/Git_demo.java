@@ -10,10 +10,9 @@ public class Git_demo {
 		int c =a+b;
 		System.out.println("print");
 		System.out.println("i am creating one branch named priti");
-//		hello this is priti branch
-//		i am trying to merge now with pankaj branch
 		
-		
+//		new branch created
+//		this code is for now pankaj branch		
 	}
 
 }
