@@ -1,3 +1,5 @@
+package git.example;
+
 import java.util.Scanner;
 
 public class Git_demo {
