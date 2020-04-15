@@ -18,6 +18,8 @@ public class Git_demo {
 		Scanner sc = new Scanner (System.in);
 		System.out.println("enter your name");
 		String name = sc.nextLine();
+		//ststement made for checking new way of commit
+		
 		
 	
 	
