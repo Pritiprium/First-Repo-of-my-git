@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Git_demo {
 
@@ -8,7 +9,21 @@ public class Git_demo {
 		int a =10;
 		int b =20;
 		int c =a+b;
-		System.out.println("print");
+		System.out.println("print"+c);
+		//this is priti branch
+	//	now this will be pankaj branch 
+//   this is now aarav branch
+		Scanner sc = new Scanner (System.in);
+		System.out.println("enter your name");
+		String name = sc.nextLine();
+		
+	
+	
+	
+	
 	}
+	
+	
+	
 
 }
